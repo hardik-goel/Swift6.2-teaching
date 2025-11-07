@@ -1,5 +1,4 @@
 # 🌟 Swift Mini Projects & Capstone Showcase
-### Author: [Your Name]
 > A collection of hands-on Swift projects built to master the fundamentals — from console logic to SwiftUI-powered apps.
 
 ---
